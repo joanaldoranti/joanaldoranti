@@ -15,14 +15,7 @@
 
 ---
 
-:woman_technologist: About Me :
-- 🌱 I’m currently learning object-oriented programming (OOP) in Java.
-- 💬 Ask me about ...
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/joana-aldoranti)
-
---- 
-
-:hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools That I Use :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
