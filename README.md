@@ -16,11 +16,11 @@
 
 ---
 
-### :woman_technologist: **More About Me**
+### 🙋🏻‍♀️ **More About Me**
 
 - 🌱 I’m currently learning object-oriented programming (OOP) in Java.
 - 💬 Ask me anything about software engineering, and I'll do my best to help!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joana-aldoranti)
+- 🙍🏻‍♀️ Get to know me better : [LinkedIn](https://www.linkedin.com/in/joana-aldoranti)
 
 ---
 
