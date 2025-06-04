@@ -18,8 +18,8 @@
 
 ### 🙋🏻‍♀️ **More About Me**
 
-- 🌱 I’m currently learning object-oriented programming (OOP) in Java.
-- 🍂 I'm also working on getting Oracle Software Engineer certification.
+- 🌱 I’m currently learning Mobile programming in Java.
+- 🍂 I'm also learning computer graphics with implementing CSS.
 - 💬 Ask me anything about software engineering, and I'll do my best to help!
 - 🙍🏻‍♀️ Get to know me better : [LinkedIn](https://www.linkedin.com/in/joana-aldoranti)
 
